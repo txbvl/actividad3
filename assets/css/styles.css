@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(54, 73, 3);
+}
+
+.bordes{
+    margin-left: 5%;
+    margin-right: 2.5%;
+}
+.bordes2{
+    margin-left: 5%;
+    margin-right: 2.5%;
+}
+.tamano{
+    height: 585px;
+    width: 100vw;
+    object-fit: cover;
+}
+.boton:hover{
+    color: rgb(54, 73, 3);
+}
+
+.card-title{
+    color: rgb(54, 73, 3);
+}
+
+.ms-fullDerecha{
+    margin-top: 20px;
+    margin-left: 88%;
+}
+
+.enlace{
+    color: black;
+}
+
+.carousel-control-prev{
+    background-color: black;
+}
+
+.carousel-control-next{
+    background-color: black;
+}
